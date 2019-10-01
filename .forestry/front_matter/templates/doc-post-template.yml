@@ -14,5 +14,3 @@ fields:
     required: false
   label: DESCRIPTION
   description: description field
-pages:
-- _posts/2019-10-01-random-title.md
