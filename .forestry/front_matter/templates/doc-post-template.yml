@@ -1,4 +1,16 @@
 ---
 label: doc post template
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: TITLE
+  description: title of document
+- name: description
+  type: text
+  config:
+    required: false
+  label: DESCRIPTION
+  description: description field
