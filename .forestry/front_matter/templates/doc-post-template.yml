@@ -14,3 +14,5 @@ fields:
     required: false
   label: DESCRIPTION
   description: description field
+pages:
+- _posts/random-title.md
