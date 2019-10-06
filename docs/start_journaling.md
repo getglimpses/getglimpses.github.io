@@ -9,7 +9,8 @@ nav_order: 2
 
 
 glimpses has three specific sections.
-<img width="400" alt="glimpses main screen" src="https://getglimpses.github.io/assets/images/main-screen.png">
+
+<img width="800" alt="glimpses main screen" src="https://getglimpses.github.io/assets/images/main-screen.png">
 
 - **Sidebar** : The sidebar in glimpses keeps all your entries organized and helps in managing them.
 - **Entry List** :
