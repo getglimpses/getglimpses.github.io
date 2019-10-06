@@ -92,7 +92,7 @@ Your journal entry can be deleted by clicking on the trash icon at the menu bar.
 Tagging journal entries helps organize your entries based on any common theme. An entry can have multiple tags.  
 Tags are added at the top of the editor, right below the menu bar as shown below. 
 
- <img width="500" alt="glimpses tags" src="https://getglimpses.github.io/assets/images/tags.png">
+ <img width="700" alt="glimpses tags" src="https://getglimpses.github.io/assets/images/tags.png">
 
 Tagged entries can be retrieved just by clicking on the tag icon at the side bar, where all your collective tags can be viewed. 
 
