@@ -6,7 +6,7 @@ description: "Documentation - glimpses - A simple and minimal journal app for wi
 permalink: /
 ---
 
-# Focus on writing.
+# Keep memories alive
 {: .fs-9 }
 
 Welcome to glimpses!. With our minimalistic design, glimpses focuses on paving a simple journaling path for our users. In this guide we give an overview of how glimpses work.
