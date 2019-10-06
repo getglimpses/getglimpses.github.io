@@ -31,7 +31,7 @@ Once you have the `glimpses-setup.exe` file, you can double click to install it.
 
 ### Log in
 When glimpses is launched, you should see a wecome screen like below.
-<img height="500" alt="glimpses welcome screen" src="https://getglimpses.github.io/assets/images/welcome-screen.png">
+<img width="400" alt="glimpses welcome screen" src="https://getglimpses.github.io/assets/images/welcome-screen.png">
 
 
 
