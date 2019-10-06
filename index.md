@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Quick Start Guide
 nav_order: 1
 description: "Documentation - glimpses - A simple and minimal journal app for windows"
 permalink: /
@@ -47,7 +47,10 @@ After successful sign in, you will be presented with a screen to authorize glimp
 Please be noted that we do not store your password anywhere in the application or in glimpses servers.
 We use Dropbox OAuth 2 open specification for authentication and authorization. Please refere [here](https://www.dropbox.com/developers/reference/oauth-guide) for more details.
 
-
+---
+### Please help us to improve this docs.
+If you think this documentation can be improved, feel free to discuss it in the issues.
+Please fork our GitHub repository [here](https://github.com/getglimpses/getglimpses.github.io) and open pull request with improvements.
 
 
 
