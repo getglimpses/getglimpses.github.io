@@ -97,6 +97,6 @@ Tags are added at the top of the editor, right below the menu bar as shown below
 Tagged entries can be retrieved just by clicking on the tag icon at the side bar, where all your collective tags can be viewed. 
 
 ---
-### Please help us to improve this docs.
+## Please help us to improve this docs.
 If you think this documentation can be improved, feel free to discuss it in the issues.
 Please fork our GitHub repository [here](https://github.com/getglimpses/getglimpses.github.io) and open pull request with improvements.
