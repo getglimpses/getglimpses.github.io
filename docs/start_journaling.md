@@ -26,3 +26,12 @@ glimpses has three specific sections.
 {:toc}
 
 ---
+
+## Create a new journal entry
+To create a new journal entry, click the **"+"** button on the menu bar or use key-board shortcut of `Cntrl + N`.
+
+<img width="800" alt="glimpses add entry button" src="https://getglimpses.github.io/assets/images/add-entry.png">
+
+Then glimpses sets a `distraction-free` mode. It hides all sidebar controls and lets you focus on the writing.
+
+<img width="800" alt="glimpses distraction free mode" src="https://getglimpses.github.io/assets/images/distraction-free.png">
