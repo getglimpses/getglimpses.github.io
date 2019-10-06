@@ -57,7 +57,7 @@ You can toggle the `distraction-free mode` by clicking on it again, which gives 
 
 ## Markdown 
 
-glimpses comes with a support of `common-mark` compliant extensible markdown processor. The markdown button on menu bar shows a markdown preview of your entry, which on publishing will generate a private link, directing to an enriched HTML webpage.  
+glimpses comes with a support of ` common-mark ` compliant extensible markdown processor. The markdown button on menu bar is to preview you markdown entry, which on publishing will generate a private link, directing to an enriched HTML webpage.  
 
  <img width="500" alt="glimpses markdown preview button" src="https://getglimpses.github.io/assets/images/markdown-preview.png">
 
@@ -92,8 +92,11 @@ Your journal entry can be deleted by clicking on the trash icon at the menu bar.
 Tagging journal entries helps organize your entries based on any common theme. An entry can have multiple tags.  
 Tags are added at the top of the editor, right below the menu bar as shown below. 
 
-(image) 
+ <img width="500" alt="glimpses tags" src="https://getglimpses.github.io/assets/images/tags.png">
 
 Tagged entries can be retrieved just by clicking on the tag icon at the side bar, where all your collective tags can be viewed. 
 
-(image) 
+---
+### Please help us to improve this docs.
+If you think this documentation can be improved, feel free to discuss it in the issues.
+Please fork our GitHub repository [here](https://github.com/getglimpses/getglimpses.github.io) and open pull request with improvements.
