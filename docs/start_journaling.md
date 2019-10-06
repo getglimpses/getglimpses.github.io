@@ -35,4 +35,5 @@ To create a new journal entry, click the **"+"** button on the menu bar or use k
 Then glimpses sets a `distraction-free` mode. It hides all sidebar controls and lets you focus on the writing.
 
 <img width="600" alt="glimpses distraction free mode" src="https://getglimpses.github.io/assets/images/distraction-free.png">
+
 You can toggle the `distraction-free mode` by clicking on it again, which gives you acess to the side-bar.
