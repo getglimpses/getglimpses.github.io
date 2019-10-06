@@ -33,6 +33,11 @@ Once you have the `glimpses-setup.exe` file, you can double click to install it.
 When glimpses is launched, you should see a wecome screen like below.
 <img width="400" alt="glimpses welcome screen" src="https://getglimpses.github.io/assets/images/welcome-screen.png">
 
+Click on **"Log in with Dropbox"** button. Then you will be prompted with login screen as shown below.
+
+<img width="400" alt="glimpses login screen" src="https://getglimpses.github.io/assets/images/login-screen.png">
+
+Enter Dropbox username and passwo
 
 
 
