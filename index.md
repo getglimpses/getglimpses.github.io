@@ -37,7 +37,15 @@ Click on **"Log in with Dropbox"** button. Then you will be prompted with login 
 
 <img width="400" alt="glimpses login screen" src="https://getglimpses.github.io/assets/images/login-screen.png">
 
-Enter Dropbox username and passwo
+Enter Dropbox username and password. Click the **"Sign in"** button.
+
+After successful sign in, you will be presented with a screen to authorize glimpses an access to its own folder
+**"Apps/glimpses"** in your Dropbox account.
+
+<img width="400" alt="screen to authorize glimpses" src="https://getglimpses.github.io/assets/images/auth-screen.png">
+
+Please be noted that we do not store your password anywhere in the application or in glimpses servers.
+We use Dropbox OAuth 2 open specification for authentication and authorization. Please refere [here](https://www.dropbox.com/developers/reference/oauth-guide) for more details.
 
 
 
