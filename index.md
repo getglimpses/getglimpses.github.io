@@ -24,13 +24,15 @@ Below are the requirements to get started with glimpses.
 Once  you have these at hand, you are all set to go!!.
 
 ### Download & Installation
-glimpses can be downloaded when payment is made through our website, after which you will be receiving a mail with a link to download glimpses as shown below.
+glimpses can be downloaded when payment is made through our website, after which you will be receiving a mail with a link to download glimpses.
 
 Once you have the `glimpses-setup.exe` file, you can double click to install it.
 `glimpses-setup.exe` silently installs glimpses and will launch the app automatically.
 
 ### Log in
+When glimpses is launched, you should see a wecome screen like below.
 
+<!--Image: Welcome screen -->
 
 
 
