@@ -7,11 +7,10 @@ nav_order: 2
 # Start Journaling
 {: .no_toc }
 
-
-glimpses has three specific sections.
-
 <img width="800" alt="glimpses main screen" src="https://getglimpses.github.io/assets/images/main-screen.png">
 
+Above is the default screen that is loaded when the app is launched.
+At a high level, glimpses has got three specific sections.
 - **Sidebar** : The sidebar in glimpses keeps all your entries organized and helps in managing them.
 - **Entry list** :
   Holds all your entries ordered by create date by default. 
