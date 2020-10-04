@@ -46,7 +46,7 @@ After a successful sign in, you will be presented with a screen to authorize gli
 
 And once you authorize glimpses app, you will be provided with authorization code as shown below for a reusable token
 
-<img width="400" alt="webpage with glimpses authorization code" src="https://getglimpses.github.io/assets/images/glimpses-code.png">
+<img alt="webpage with glimpses authorization code" src="https://getglimpses.github.io/assets/images/glimpses-code.png">
 
 You need to copy this verification code and paste it on glimpses window (step2)
 
