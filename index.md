@@ -12,7 +12,15 @@ permalink: /
 Welcome to glimpses!. With our minimalistic design, glimpses focuses on paving a simple journaling path for our users. In this guide we give an overview of how to get started with glimpses.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/getglimpses/getglimpses.github.io){: .btn .fs-5 .mb-4 .mb-md-0 }
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } | [View it on GitHub](https://github.com/getglimpses/getglimpses.github.io){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
