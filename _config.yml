@@ -1,4 +1,4 @@
-
+remote_theme: pmarsceill/just-the-docs
 url: "https://support.getglimpses.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 theme: jekyll-theme-tactile
