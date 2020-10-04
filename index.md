@@ -46,11 +46,11 @@ After a successful sign in, you will be presented with a screen to authorize gli
 
 And once you authorize glimpses app, you will be provided with authorization code as shown below for a reusable token
 
-<img width="400" alt="screen to authorize glimpses" src="https://getglimpses.github.io/assets/images/glimpses-code.png">
+<img width="400" alt="webpage with glimpses authorization code" src="https://getglimpses.github.io/assets/images/glimpses-code.png">
 
 You need to copy this verification code and paste it on glimpses window (step2)
 
-<img width="400" alt="screen to authorize glimpses" src="https://getglimpses.github.io/assets/images/complete-auth.png">
+<img width="400" alt="step to complete authorization" src="https://getglimpses.github.io/assets/images/complete-auth.png">
 
 Please be noted that we do not store your password anywhere in the application or in glimpses servers.
 We use Dropbox OAuth 2 open specification for authentication and authorization. <br>
