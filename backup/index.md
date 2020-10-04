@@ -42,7 +42,7 @@ Please press the **Open Dropbox Authorize page** button. Now app redirects the u
 After a successful sign in, you will be presented with a screen to authorize glimpses access to its own folder
 **"Apps/glimpses"** in your Dropbox account.
 
-<img width="400" alt="screen to authorize glimpses" src="https://getglimpses.github.io/assets/images/auth-page.png">
+<img alt="screen to authorize glimpses" src="https://getglimpses.github.io/assets/images/auth-page.png">
 
 And once you authorize glimpses app, you will be provided with authorization code as shown below for a reusable token
 
