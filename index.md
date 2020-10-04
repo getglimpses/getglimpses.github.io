@@ -33,16 +33,24 @@ Once you have the `glimpses-setup.exe` file, you can double click to install it.
 When glimpses is launched, you should see a welcome screen like below.
 <img width="400" alt="glimpses welcome screen" src="https://getglimpses.github.io/assets/images/welcome-screen.png">
 
-Click on **"Log in with Dropbox"** button. Then you will be prompted with the login screen as shown below.
+Click on **"Log in with Dropbox"** button. Then you will be prompted with the screen as shown below.
 
-<img width="400" alt="glimpses login screen" src="https://getglimpses.github.io/assets/images/login-screen.png">
+<img width="400" alt="glimpses login screen" src="https://getglimpses.github.io/assets/images/glimpses-auth.png">
 
-Enter Dropbox username and password. Click the **"Sign in"** button.
+Please press the **Open Dropbox Authorize page** button. Now app redirects the user to Dropbox authorize webpage.
 
 After a successful sign in, you will be presented with a screen to authorize glimpses access to its own folder
 **"Apps/glimpses"** in your Dropbox account.
 
-<img width="400" alt="screen to authorize glimpses" src="https://getglimpses.github.io/assets/images/auth-screen.png">
+<img width="400" alt="screen to authorize glimpses" src="https://getglimpses.github.io/assets/images/auth-page.png">
+
+And once you authorize glimpses app, you will be provided with authorization code as shown below for a reusable token
+
+<img width="400" alt="screen to authorize glimpses" src="https://getglimpses.github.io/assets/images/glimpses-code.png">
+
+You need to copy this verification code and paste it on glimpses window (step2)
+
+<img width="400" alt="screen to authorize glimpses" src="https://getglimpses.github.io/assets/images/complete-auth.png">
 
 Please be noted that we do not store your password anywhere in the application or in glimpses servers.
 We use Dropbox OAuth 2 open specification for authentication and authorization. <br>
