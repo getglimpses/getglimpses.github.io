@@ -18,9 +18,6 @@ Welcome to glimpses!. With our minimalistic design, glimpses focuses on paving a
 1. TOC
 {:toc}
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } | [View it on GitHub](https://github.com/getglimpses/getglimpses.github.io){: .btn .fs-5 .mb-4 .mb-md-0 }
-
-
 ## Getting started with glimpses
 ### Pre-requisites
 Below are the requirements to get started with glimpses.
