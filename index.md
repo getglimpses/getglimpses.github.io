@@ -128,6 +128,7 @@ Tagged entries can be retrieved just by clicking on the tag icon at the side bar
 
 ---
 ### Please help us to improve this docs.
+{: .no_toc }
 If you think this documentation can be improved, feel free to discuss it in the issues.
 Please fork our GitHub repository [here](https://github.com/getglimpses/getglimpses.github.io) and open pull request with improvements.
 
